@@ -3,9 +3,9 @@ package demopkg
 import "fmt"
 
 func Foo() {
-	fmt.Println("foo")
+	fmt.Println("foo_2")
 }
 
 func Bar() {
-	fmt.Println("bar")
+	fmt.Println("bar_2")
 }
